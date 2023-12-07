@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.exe.config
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.exe
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.pdb
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.exe
+C:\Users\Daniel\source\repos\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.exe.config
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.exe
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\bin\Debug\EjemploHilo3.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.exe
+C:\Users\MelchioT\Documents\workVisualStudio\EjemplosHilos\EjemploHilo3\obj\Debug\EjemploHilo3.pdb
